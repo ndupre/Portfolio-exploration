@@ -1,0 +1,30 @@
+.nav{
+    padding: 5%;
+    display: inline-block;
+
+}
+#logo {
+    width: 50px;
+}
+
+}
+li{
+    font-family: 'vollkorn';
+    font-style: 'italic' 300 #020202;
+    display: inline-block;
+}
+
+h1{
+    font-size: 70px;
+    font-family: 'Vollkorn';
+    font-weight: 500;
+    color: red;
+
+}
+
+
+
+body{
+    background-color:#FCF0EC;
+    padding: 5%;
+}
